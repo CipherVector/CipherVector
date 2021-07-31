@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CipherVector
 - 👀 I’m interested in becoming the first github influencer
 - 💞️ My goal is a leetcode sponsorship
-- 📫 How to reach me via a pr
+- 📫 How to reach make a pr
 
 <!---
 CipherVector/CipherVector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
